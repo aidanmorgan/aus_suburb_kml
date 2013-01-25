@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml><Document><Placemark><name>Wutunugurra(0872)</name><MultiGeometry>Border Polygon(s)<Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              135.2468700800,-20.4658071954,0
+              135.2509499840,-20.4688465419,0
+              135.2548052800,-20.4635005784,0
+              135.2571395840,-20.4603886934,0
+              135.2503444800,-20.4561154709,0
+              135.2436830080,-20.4634171249,0
+              135.2468700800,-20.4658071954,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon><Point><coordinates>135.250503540, -20.462600708, 0</coordinates></Point></MultiGeometry></Placemark></Document></kml>

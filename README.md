@@ -13,8 +13,15 @@ One drunken evening I happened to stumble across the Australian Bureau of Statis
  boundaries of suburbs as a free to download shapefile. Armed with a copy of global mapper, I managed to export the shapefile to a
  KML file.
 
- With this KML file, a free copy of the Gazeteer of Australia and some custom java code, I have generated an individual KML
- file for each of the suburbs in Australia.
+ With this KML file, a free copy of the Gazeteer of Australia (from Geosciences Australia) and some custom java code, I have generated an individual KML
+ file for each of the suburbs in Australia that are published by the ABS and Geosciences Australia.
+ 
+ 
+Getting the Data
+================
+
+Gazeteer of Australia: http://www.ga.gov.au/meta/ANZCW0703014255.html
+ABS Suburb Boundaries: http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202011?OpenDocument   (look for "State Suburbs ASGS Non ABS Structures Ed 2011 Digital Boundaries in ESRI Shapefile Format ")
 
 Help/Changes
 ============

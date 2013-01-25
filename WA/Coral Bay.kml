@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml><Document><Placemark><name>Coral Bay(6701)</name><MultiGeometry>Border Polygon(s)<Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              113.7682752640,-23.1516107773,0
+              113.7796299840,-23.1516100003,0
+              113.7793499840,-23.1368980048,0
+              113.7708110080,-23.1350789923,0
+              113.7703563840,-23.1349827183,0
+              113.7709651200,-23.1389901328,0
+              113.7706451520,-23.1418201703,0
+              113.7701651520,-23.1421601818,0
+              113.7680851520,-23.1421902073,0
+              113.7671251520,-23.1429902213,0
+              113.7661751680,-23.1453702648,0
+              113.7682152320,-23.1509802973,0
+              113.7682752640,-23.1516107773,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon><Point><coordinates>113.768898010, -23.143720626, 0</coordinates></Point></MultiGeometry></Placemark></Document></kml>

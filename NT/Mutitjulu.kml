@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml><Document><Placemark><name>Mutitjulu(9999)</name><MultiGeometry>Border Polygon(s)<Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              131.0611089920,-25.3597239908,0
+              131.0736120000,-25.3597199948,0
+              131.0736070080,-25.3416679908,0
+              131.0611120000,-25.3416659928,0
+              131.0611089920,-25.3597239908,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon><Point><coordinates>131.067001342, -25.350700378, 0</coordinates></Point></MultiGeometry></Placemark></Document></kml>

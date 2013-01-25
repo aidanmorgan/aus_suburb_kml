@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml><Document><Placemark><name>Plumridge Lakes(6431)</name><MultiGeometry>Border Polygon(s)<Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              127.0973621120,-29.3511491072,0
+              127.1144886400,-29.3425190792,0
+              127.1004309760,-29.3315589392,0
+              127.0870663360,-29.3321630382,0
+              127.0860763840,-29.3389807692,0
+              127.0973621120,-29.3511491072,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon><Point><coordinates>122.962303161, -29.307279586, 0</coordinates></Point></MultiGeometry></Placemark></Document></kml>

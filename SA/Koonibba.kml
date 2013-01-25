@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml><Document><Placemark><name>Koonibba()</name><MultiGeometry>Border Polygon(s)<Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              133.4141888320,-31.9474979927,0
+              133.4571156160,-31.9125518072,0
+              133.4571166720,-31.9082585492,0
+              133.4571184320,-31.8886629052,0
+              133.4141392320,-31.8885177912,0
+              133.4141208000,-31.9082353132,0
+              133.4142277120,-31.9472909962,0
+              133.4141971200,-31.9472630057,0
+              133.4140556480,-31.9473756892,0
+              133.4141888320,-31.9474979927,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon><Point><coordinates>133.458419799, -31.971754074, 0</coordinates></Point></MultiGeometry></Placemark></Document></kml>
