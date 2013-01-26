@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml><Document><Placemark><name>"BRAESIDE"("3195")</name><MultiGeometry>Border Polygon(s)<Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              145.1146992320,-38.0150691441,0
+              145.1194460480,-38.0163812566,0
+              145.1196470400,-38.0153005051,0
+              145.1196569920,-38.0152440061,0
+              145.1203300160,-38.0117351851,0
+              145.1207760000,-38.0094040001,0
+              145.1207985920,-38.0093117961,0
+              145.1191954560,-38.0091139941,0
+              145.1176276160,-38.0089229816,0
+              145.1151761280,-38.0086241511,0
+              145.1147406080,-38.0109694701,0
+              145.1139812480,-38.0148693626,0
+              145.1146992320,-38.0150691441,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon><Point><coordinates>"145.101908", "-38.026479", 0</coordinates></Point></MultiGeometry></Placemark></Document></kml>
