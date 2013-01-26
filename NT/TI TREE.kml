@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml><Document><Placemark><name>TI TREE ("0872")</name><MultiGeometry>Border Polygon(s)<Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              133.4316153600,-22.1701562143,0
+              133.4529543680,-22.1701487403,0
+              133.4529140160,-22.0974741728,0
+              133.4451157120,-22.0974787793,0
+              133.4234959360,-22.0974838113,0
+              133.4225041280,-22.0974801298,0
+              133.3991671040,-22.0974857908,0
+              133.3749704320,-22.0974855318,0
+              133.3749635840,-22.1285928193,0
+              133.3749608960,-22.1348013268,0
+              133.3749571200,-22.1495652888,0
+              133.3749495680,-22.1701547713,0
+              133.4316153600,-22.1701562143,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon><Point><coordinates>"134.3822", "-20.998545", 0</coordinates></Point></MultiGeometry></Placemark></Document></kml>

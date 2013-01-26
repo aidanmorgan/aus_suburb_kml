@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml><Document><Placemark><name>GREYS PLAIN ("6701")</name><MultiGeometry>Border Polygon(s)<Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              113.6933865280,-24.8777094323,0
+              113.6933865280,-24.8778904363,0
+              113.6958535360,-24.8778904178,0
+              113.6958544960,-24.8749903948,0
+              113.6956358080,-24.8738133508,0
+              113.6950819840,-24.8739129918,0
+              113.6944457920,-24.8739207248,0
+              113.6933074880,-24.8738968783,0
+              113.6916126720,-24.8735310408,0
+              113.6916005120,-24.8736534183,0
+              113.6915995200,-24.8777094508,0
+              113.6933865280,-24.8777094323,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon><Point><coordinates>"113.632427", "-24.874403", 0</coordinates></Point></MultiGeometry></Placemark></Document></kml>

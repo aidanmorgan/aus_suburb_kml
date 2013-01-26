@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml><Document><Placemark><name>PINE CREEK ("0847")</name><MultiGeometry>Border Polygon(s)<Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              131.7345160000,-13.7319149951,0
+              131.7345222720,-13.8084009326,0
+              131.7345310080,-13.9152410041,0
+              131.7675742400,-13.9152404676,0
+              131.9178640000,-13.9152380071,0
+              131.9178593280,-13.8084622231,0
+              131.9178560000,-13.7319060041,0
+              131.9098632000,-13.7319063926,0
+              131.7806121920,-13.7319127381,0
+              131.7345160000,-13.7319149951,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon><Point><coordinates>"131.835799", "-13.824123", 0</coordinates></Point></MultiGeometry></Placemark></Document></kml>

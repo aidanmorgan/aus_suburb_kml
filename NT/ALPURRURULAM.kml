@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml><Document><Placemark><name>ALPURRURULAM ("4825")</name><MultiGeometry>Border Polygon(s)<Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              137.8318910080,-21.0029569894,0
+              137.8391289920,-20.9983229984,0
+              137.8467390080,-20.9907459904,0
+              137.8484319040,-20.9890675039,0
+              137.8530862080,-20.9836092824,0
+              137.8570190080,-20.9801670059,0
+              137.8523000000,-20.9649810034,0
+              137.8154981120,-20.9746389839,0
+              137.8318910080,-21.0029569894,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon><Point><coordinates>"149.098918", "-21.164318", 0</coordinates></Point></MultiGeometry></Placemark></Document></kml>

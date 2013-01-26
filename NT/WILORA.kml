@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml><Document><Placemark><name>WILORA ("0872")</name><MultiGeometry>Border Polygon(s)<Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              133.7317815680,-21.7382768224,0
+              133.7289465600,-21.7343890844,0
+              133.7155769920,-21.7418290074,0
+              133.7235400000,-21.7543020034,0
+              133.7377168960,-21.7464161379,0
+              133.7317815680,-21.7382768224,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon><Point><coordinates>"134.3822", "-20.998545", 0</coordinates></Point></MultiGeometry></Placemark></Document></kml>

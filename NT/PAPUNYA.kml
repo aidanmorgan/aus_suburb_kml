@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><kml><Document><Placemark><name>PAPUNYA ("0872")</name><MultiGeometry>Border Polygon(s)<Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              131.9220772800,-23.1909345253,0
+              131.9071470080,-23.1971510063,0
+              131.9012369920,-23.2016969928,0
+              131.9010929920,-23.2144759973,0
+              131.9072295040,-23.2144483583,0
+              131.9232640000,-23.2144549998,0
+              131.9233979200,-23.2009971748,0
+              131.9220772800,-23.1909345253,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon><Point><coordinates>"134.3822", "-20.998545", 0</coordinates></Point></MultiGeometry></Placemark></Document></kml>
