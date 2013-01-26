@@ -26,4 +26,6 @@ ABS Suburb Boundaries: http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.
 Help/Changes
 ============
 
-This data comes from the ABS, and I do not take any responsibility for any inaccuracies.
+This data comes from the ABS, and I do not take any responsibility for any inaccuracies, use at your own risk.
+
+The "Unknown" directory contains suburbs that cannot be automatically determined because the suburb name does not exist according to the Gazetteer or Australia Post suburb reference files. If you know where one of them should go, please feel free to put it into the right subdirectory and send me a pull request (please try to keep to the naming convention followed).
