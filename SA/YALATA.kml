@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>YALATA</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>131.851246336,-31.4961807987 131.86740992,-31.4963699057 131.884705248,-31.4964800177 131.884870016,-31.4958300387 131.883849952,-31.4949499752 131.883019968,-31.4942400007 131.881889984,-31.4926700167 131.877790016,-31.4885199672 131.87436,-31.4857199552 131.869849984,-31.4819899667 131.866620032,-31.4795000332 131.863529952,-31.4769700102 131.855722368,-31.4722176377 131.84698,-31.4671199997 131.840225888,-31.4629215727 131.809140128,-31.4630039162 131.809206688,-31.4951947672 131.8121408,-31.4960022922 131.851246336,-31.4961807987</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>BOULIA</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>139.906880992,-22.9090789778 139.904561152,-22.9093379963 139.904736832,-22.9106009728 139.90489488,-22.9119930053 139.905070912,-22.9133199548 139.905246976,-22.9145830238 139.907549152,-22.9143079843 139.909887008,-22.9140810078 139.912224128,-22.9138059683 139.914561952,-22.9135789733 139.914403936,-22.9122999943 139.914246016,-22.9109570053 139.914069856,-22.9095809938 139.913682112,-22.9064152923 139.913465216,-22.9063668038 139.911516,-22.9065732453 139.911366432,-22.9066043068 139.911363008,-22.9073140038 139.90904784,-22.9075610343 139.90665312,-22.9078479508 139.906880992,-22.9090789778</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

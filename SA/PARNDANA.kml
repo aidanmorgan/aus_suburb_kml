@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>PARNDANA</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>137.259970912,-35.7906826831 137.26189056,-35.7916073871 137.264132,-35.7927009961 137.264324992,-35.7908109991 137.264548992,-35.7889780006 137.26466304,-35.7878491676 137.264804608,-35.7869624996 137.265037792,-35.7849075936 137.265747008,-35.7791290076 137.268136,-35.7767110021 137.26839168,-35.7753774666 137.265142912,-35.7752023271 137.24574768,-35.7742697421 137.24566,-35.7806759961 137.2456472,-35.7816964931 137.247751008,-35.7848349996 137.248628,-35.7878709976 137.254393984,-35.7879469956 137.259970912,-35.7906826831</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

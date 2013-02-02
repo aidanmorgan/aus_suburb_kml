@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>KOONIBBA</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>133.414188832,-31.9474979927 133.457115616,-31.9125518072 133.457116672,-31.9082585492 133.457118432,-31.8886629052 133.414139232,-31.8885177912 133.4141208,-31.9082353132 133.414227712,-31.9472909962 133.41419712,-31.9472630057 133.414055648,-31.9473756892 133.414188832,-31.9474979927</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

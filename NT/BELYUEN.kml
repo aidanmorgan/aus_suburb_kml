@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>BELYUEN</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>130.69376304,-12.5672733951 130.708731616,-12.5672875106 130.712789536,-12.5672897676 130.712791008,-12.5621369996 130.712794208,-12.5360866871 130.712766848,-12.5344317511 130.712761088,-12.5337113056 130.712762176,-12.5314758951 130.712762816,-12.5233559676 130.712763968,-12.5090961306 130.6836648,-12.5090974811 130.65358176,-12.5090950576 130.65358,-12.5146944526 130.653572416,-12.5386528406 130.6535616,-12.5672324361 130.683652576,-12.5672638491 130.69376304,-12.5672733951</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>KALUMBURU</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>126.645232,-14.312989006 126.650934016,-14.3131220025 126.650731008,-14.285025997 126.628389984,-14.284912999 126.628456992,-14.2943719935 126.637255008,-14.297500991 126.642841984,-14.297562004 126.644543008,-14.2983339905 126.644664992,-14.2985050045 126.646043008,-14.300447005 126.646429984,-14.3009899985 126.646624,-14.307809006 126.645232,-14.312989006</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

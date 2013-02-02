@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>LOW ISLES</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>145.558836512,-16.382759941 145.558371968,-16.383538976 145.558356512,-16.384009949 145.558946528,-16.3845699255 145.559646528,-16.3845699255 145.561526464,-16.3843499235 145.562106464,-16.3841299215 145.562576448,-16.3835599365 145.562816416,-16.382549929 145.562816416,-16.3817499335 145.562116448,-16.381409922 145.56011648,-16.382089945 145.558836512,-16.382759941</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>145.566561952,-16.3819790005 145.566212032,-16.382429013 145.566911872,-16.383219037 145.567622176,-16.383329001 145.56785184,-16.383108962 145.56785184,-16.3827690245 145.567622176,-16.3825389955 145.566561952,-16.3819790005</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>145.56795632,-16.3878598915 145.570056288,-16.3900098875 145.570756288,-16.3898998865 145.571346272,-16.3893398915 145.571702048,-16.3881989965 145.571706272,-16.3871898955 145.571361856,-16.386389012 145.570306304,-16.3852698915 145.569492,-16.3846889915 145.568666336,-16.3843599135 145.567726336,-16.3860599155 145.567606368,-16.3870699045 145.56795632,-16.3878598915</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

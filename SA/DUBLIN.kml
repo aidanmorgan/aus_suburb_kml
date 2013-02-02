@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>DUBLIN</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>138.342235616,-34.4485920431 138.345775552,-34.4536243206 138.34893952,-34.4581220776 138.350565888,-34.4581167866 138.362316832,-34.4581297181 138.358182432,-34.4544369331 138.351981696,-34.4507670881 138.351905824,-34.4507221701 138.350909312,-34.4500565031 138.350226976,-34.4495601851 138.349606624,-34.4491352956 138.349202336,-34.4486564971 138.348168896,-34.4474183476 138.347295232,-34.4461733716 138.342235616,-34.4485920431</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

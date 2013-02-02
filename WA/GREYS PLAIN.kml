@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>GREYS PLAIN</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>113.693386528,-24.8777094323 113.693386528,-24.8778904363 113.695853536,-24.8778904178 113.695854496,-24.8749903948 113.695635808,-24.8738133508 113.695081984,-24.8739129918 113.694445792,-24.8739207248 113.693307488,-24.8738968783 113.691612672,-24.8735310408 113.691600512,-24.8736534183 113.69159952,-24.8777094508 113.693386528,-24.8777094323</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

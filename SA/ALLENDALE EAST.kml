@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>ALLENDALE EAST</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>140.711172032,-38.0001495231 140.713218368,-37.9971180021 140.711400352,-37.9968272931 140.708257216,-37.9963186171 140.704532192,-38.0027275721 140.704245728,-38.0027787246 140.70376656,-38.0046524416 140.706131328,-38.0050132286 140.705902944,-38.0059491621 140.708036832,-38.0062620526 140.708997888,-38.0064338991 140.709206368,-38.0056976731 140.710862016,-38.0060048471 140.711407328,-38.0040470106 140.71140144,-38.0039556576 140.711874816,-38.0040318406 140.713342144,-38.0019094096 140.712997824,-38.0017599296 140.713419552,-38.0011154266 140.711172032,-38.0001495231</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

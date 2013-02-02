@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>LARAMBA</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>132.757934752,-22.5311481943 132.752952352,-22.5333449953 132.749289376,-22.5404628333 132.747669376,-22.5444400188 132.747119296,-22.5507977103 132.754534912,-22.5508653833 132.7828144,-22.5507431908 132.768895008,-22.5349844653 132.757167616,-22.5341261208 132.757934752,-22.5311481943</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>MIDDLEMOUNT</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>148.686802304,-22.8181736408 148.686914816,-22.8181843338 148.699814336,-22.8385528523 148.699997024,-22.8386540288 148.71259584,-22.8210019578 148.713486112,-22.8197459743 148.720601888,-22.8100519743 148.72072896,-22.8098819778 148.725826048,-22.8027486738 148.725540512,-22.8021694943 148.7177144,-22.7972748383 148.713739808,-22.8027372963 148.6970936,-22.7958533723 148.693844608,-22.7975733728 148.6752712,-22.8073907308 148.674669216,-22.8090391363 148.679977408,-22.8175181118 148.686802304,-22.8181736408</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

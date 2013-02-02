@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>COOBER PEDY</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>134.807191072,-29.0516881272 134.807559904,-29.0516936402 134.809137728,-29.0517079407 134.809301312,-29.0372082512 134.809687328,-29.0029932782 134.793463936,-28.9961651132 134.787277024,-28.9935604057 134.765093696,-28.9842025137 134.73947312,-28.9734207322 134.735929472,-28.9710283307 134.694102752,-28.9815674107 134.7010272,-29.0049481732 134.70779344,-29.0278538187 134.707490784,-29.0507670122 134.771755456,-29.0513654317 134.780838656,-29.0514540837 134.793241856,-29.0515658607 134.80609984,-29.0516805422 134.807191072,-29.0516881272</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>Enfield</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>143.801108192,-37.7350906436 143.807563264,-37.7388803871 143.809683776,-37.7399729231 143.812142016,-37.7373040021 143.810223008,-37.7363139931 143.813565376,-37.7327097306 143.809966144,-37.7305880766 143.814414976,-37.7255565946 143.805247552,-37.7202553271 143.799077152,-37.7166870841 143.79979536,-37.7224998581 143.79845456,-37.7241467651 143.793350336,-37.7304162856 143.793452256,-37.7305949401 143.801108192,-37.7350906436</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

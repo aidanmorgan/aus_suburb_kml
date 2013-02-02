@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>ASHLEY</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>149.813403136,-29.3127286402 149.812950688,-29.3123942157 149.810117504,-29.3120838412 149.805276864,-29.3115500052 149.804451104,-29.3092160267 149.8040384,-29.3085380757 149.79826224,-29.3119467377 149.803204224,-29.3182867062 149.805880192,-29.3217206947 149.809360128,-29.3196466782 149.809405152,-29.3194875597 149.811976032,-29.3179016287 149.812554816,-29.3177426212 149.812652032,-29.3173486637 149.811919904,-29.3164006497 149.810864032,-29.3136276662 149.811158176,-29.3135417152 149.813403136,-29.3127286402</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

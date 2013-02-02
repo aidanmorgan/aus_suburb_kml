@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>ANGURUGU</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>136.456612992,-13.9864850036 136.467619104,-13.9864907201 136.467614912,-13.9785180156 136.467640928,-13.9775953096 136.461822656,-13.9765615111 136.462004288,-13.9752562066 136.459909536,-13.9740820671 136.459731424,-13.9740080856 136.4596336,-13.9751933806 136.45895184,-13.9756830571 136.459265536,-13.9760995846 136.455208864,-13.9753697411 136.455236,-13.9780229926 136.455231808,-13.9788637251 136.455235008,-13.9851910026 136.456614016,-13.9851920016 136.456612992,-13.9864850036</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

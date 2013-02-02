@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>CUNDEELEE</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>123.153308032,-31.0746935227 123.173687808,-31.0750216387 123.194067712,-31.0753465172 123.214447744,-31.0756681952 123.234827904,-31.0759866357 123.25011312,-31.0762233432 123.265398432,-31.0764582747 123.285778944,-31.0767686677 123.285783456,-31.0271584017 123.27026832,-31.0267809277 123.249581632,-31.0262747307 123.228895168,-31.0257652037 123.213641152,-31.0253872672 123.193476384,-31.0248847887 123.178352992,-31.0245058902 123.158188608,-31.0239978987 123.138024448,-31.0234867992 123.138025664,-31.0543335697 123.138023328,-31.0744453267 123.153308032,-31.0746935227</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

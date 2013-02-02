@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>ROXBY DOWNS</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>136.852454912,-30.4874248237 136.853711008,-30.4925698217 136.855464704,-30.5001158977 136.843014688,-30.5001104032 136.843014816,-30.5684801317 136.842996096,-30.6235376487 136.915229728,-30.6235372787 136.918100768,-30.5838228477 136.92073792,-30.5461266742 136.924535712,-30.5001237047 136.897863296,-30.5001252032 136.897885952,-30.4807855067 136.89633392,-30.4770024787 136.896123936,-30.4764924892 136.895228896,-30.4743094892 136.888323072,-30.4764275357 136.887934048,-30.4765545382 136.885196128,-30.4773875562 136.852454912,-30.4874248237</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

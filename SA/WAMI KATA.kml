@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>WAMI KATA</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>137.781636256,-32.4751829646 137.781742464,-32.4752730781 137.784917312,-32.4764461076 137.785004032,-32.4765041976 137.785549824,-32.4754485691 137.786503936,-32.4736169766 137.789752992,-32.4751009911 137.791173504,-32.4763160341 137.791238048,-32.4762633831 137.799615264,-32.4674859286 137.787236704,-32.4674983606 137.787073792,-32.4674763271 137.785402848,-32.4693967196 137.78492544,-32.4708208126 137.78322048,-32.4721223986 137.782923616,-32.4726958986 137.782071104,-32.4743429166 137.781636256,-32.4751829646</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

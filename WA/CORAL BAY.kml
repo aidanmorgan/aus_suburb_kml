@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>CORAL BAY</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>113.768275264,-23.1516107773 113.779629984,-23.1516100003 113.779349984,-23.1368980048 113.770811008,-23.1350789923 113.770356384,-23.1349827183 113.77096512,-23.1389901328 113.770645152,-23.1418201703 113.770165152,-23.1421601818 113.768085152,-23.1421902073 113.767125152,-23.1429902213 113.766175168,-23.1453702648 113.768215232,-23.1509802973 113.768275264,-23.1516107773</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

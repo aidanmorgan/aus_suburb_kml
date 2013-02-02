@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>WIMBLEDON HEIGHTS</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>145.230081888,-38.4820720071 145.234238432,-38.4820748191 145.237674304,-38.4820771501 145.238775808,-38.4820778901 145.238779456,-38.4816798441 145.238778496,-38.4801173156 145.23876144,-38.4787674076 145.238778016,-38.4783210026 145.23411648,-38.4783191711 145.229528512,-38.4783157116 145.229527008,-38.4819399911 145.229532,-38.4820740051 145.230081888,-38.4820720071</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

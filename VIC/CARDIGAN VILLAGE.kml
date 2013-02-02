@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>CARDIGAN VILLAGE</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>143.71462192,-37.5164234926 143.714903008,-37.5148629991 143.715044992,-37.5146030001 143.709857984,-37.5130749926 143.709359264,-37.5128487191 143.70626,-37.5114419976 143.706168,-37.5118889946 143.705575072,-37.5150136631 143.704820992,-37.5189870006 143.704768,-37.5193530046 143.705118272,-37.5201788261 143.705716,-37.5215880081 143.705955904,-37.5216152586 143.713523168,-37.5225008166 143.713913888,-37.5203396651 143.71462192,-37.5164234926</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

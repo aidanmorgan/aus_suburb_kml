@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>WHITE CLIFFS</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>143.07437696,-30.8692909087 143.087968704,-30.8696027817 143.114824928,-30.8642469762 143.115294752,-30.8581504307 143.115299776,-30.8581054387 143.098006816,-30.8189819532 143.056586464,-30.8200754327 143.056748544,-30.8414102987 143.054613024,-30.8571907802 143.080938944,-30.8600661612 143.077018336,-30.8655136527 143.07437696,-30.8692909087</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

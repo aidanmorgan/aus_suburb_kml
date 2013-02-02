@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>WILLARE</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>123.654666304,-17.7327570555 123.65438032,-17.7336803165 123.655270944,-17.7363252245 123.655960832,-17.738018733 123.658194208,-17.7430856055 123.664387264,-17.741172872 123.663798784,-17.736331459 123.662236064,-17.7316859795 123.660218656,-17.7276403255 123.653880128,-17.730419451 123.654666304,-17.7327570555</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

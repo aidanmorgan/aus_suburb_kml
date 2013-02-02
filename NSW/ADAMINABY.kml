@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>ADAMINABY</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>148.768164544,-36.0013353566 148.770814144,-36.0016713536 148.78003824,-36.0028687661 148.780919104,-35.9979159276 148.781423616,-35.9970498316 148.782329824,-35.9954272891 148.783318656,-35.9936567651 148.77807392,-35.9891964891 148.774776704,-35.9898627296 148.773880576,-35.9894515856 148.772737536,-35.9889395611 148.770889184,-35.9884596896 148.769373952,-35.9880062176 148.767846464,-35.9875490826 148.76723856,-35.9873690961 148.766742912,-35.9876522386 148.769131296,-35.9945808216 148.763000384,-35.9937263436 148.762083616,-35.9990737131 148.768200512,-35.9998931336 148.768164544,-36.0013353566</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

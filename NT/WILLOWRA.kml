@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>WILLOWRA</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>132.600218016,-21.2585309929 132.604171008,-21.2770449974 132.619983008,-21.2754640059 132.63702,-21.2853379924 132.645152,-21.2703909914 132.638168,-21.2620229974 132.627203008,-21.2536059969 132.620662016,-21.2480159999 132.621812992,-21.2448510014 132.618169984,-21.2432920064 132.617364992,-21.2430859904 132.613390016,-21.2431120014 132.609439008,-21.2439839989 132.605992,-21.2453810079 132.602737984,-21.2463019934 132.598992992,-21.2470389964 132.595124,-21.2473460039 132.595431008,-21.2575390044 132.600218016,-21.2585309929</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

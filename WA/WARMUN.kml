@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>WARMUN</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>128.202500416,-17.046875494 128.21966,-17.0468660035 128.227706016,-17.046859991 128.23624,-17.046854996 128.244772992,-17.046848003 128.244772,-17.0431399925 128.244764,-17.028422003 128.244763008,-17.024829007 128.244753312,-17.006187371 128.223203776,-17.006197472 128.222532672,-17.006194364 128.202479008,-17.0061944565 128.20247936,-17.042846527 128.202500416,-17.0462075145 128.202500416,-17.046875494</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

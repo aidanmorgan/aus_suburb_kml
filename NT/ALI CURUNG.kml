@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>ALI CURUNG</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>134.410228992,-20.9736760034 134.410236992,-20.9219650069 134.219475008,-20.9219759959 134.205148,-20.9729229979 134.203725984,-20.9779830069 134.201284,-20.9866640024 134.240103008,-20.9866610054 134.240115008,-21.1264510014 134.379252992,-21.1264120034 134.410222016,-21.1264059909 134.41022,-21.0318159904 134.441179008,-21.0318119944 134.441192992,-20.9736809984 134.410228992,-20.9736760034</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

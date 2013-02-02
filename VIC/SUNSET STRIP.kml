@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>Sunset Strip</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>145.26100688,-38.4855529856 145.258824992,-38.4832760056 145.2576368,-38.4823359836 145.257524992,-38.4825460511 145.257595936,-38.4966871181 145.258224928,-38.4967341821 145.260893888,-38.4970232631 145.261528992,-38.4970390066 145.262357792,-38.4970512536 145.26511312,-38.4973392616 145.267288896,-38.4975732681 145.268664288,-38.4977100756 145.271502176,-38.4979616016 145.271743136,-38.4968418891 145.271072704,-38.4958854576 145.26834048,-38.4930709231 145.267298592,-38.4919975346 145.266514816,-38.4911901021 145.263156,-38.4877125461 145.261878144,-38.4864168061 145.26100688,-38.4855529856</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

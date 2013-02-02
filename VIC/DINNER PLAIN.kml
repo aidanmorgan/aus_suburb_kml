@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>DINNER PLAIN</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>147.234609888,-37.0236310931 147.238102048,-37.0264217626 147.246573792,-37.0264753941 147.247062496,-37.0251536616 147.247041888,-37.0246716811 147.247588736,-37.0240438651 147.247532352,-37.0234180841 147.246997856,-37.0226139631 147.244375456,-37.0206947731 147.243081952,-37.0204900151 147.237208,-37.0212639996 147.235133824,-37.0208756476 147.234609888,-37.0236310931</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

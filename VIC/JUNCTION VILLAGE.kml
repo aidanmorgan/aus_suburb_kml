@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>JUNCTION VILLAGE</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>145.29316752,-38.1432887221 145.299428,-38.1440556766 145.299273216,-38.1448671051 145.30174,-38.1451520421 145.30185792,-38.1451417191 145.304932672,-38.1426488071 145.306764576,-38.1411024291 145.307668992,-38.1417130031 145.309766048,-38.1316436011 145.291428352,-38.1293065701 145.29124576,-38.1291528536 145.289685952,-38.1289643016 145.288684448,-38.1288428121 145.287224864,-38.1286650456 145.28618208,-38.1285459056 145.284303616,-38.1385391431 145.284435616,-38.1385536471 145.284093984,-38.1402799931 145.293522112,-38.1413962831 145.29316752,-38.1432887221</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

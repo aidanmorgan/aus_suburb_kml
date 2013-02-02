@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>TARA</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>134.01320256,-21.4627046334 134.00685648,-21.4578067584 134.003916352,-21.4630380959 133.995137408,-21.4723629839 133.994169728,-21.4825837529 133.986038048,-21.4888223784 133.984551232,-21.4916138989 133.986663712,-21.4946351154 133.993020608,-21.5036895519 133.996165888,-21.5081712879 133.997447904,-21.5084410179 133.998738432,-21.5039415034 134.00049744,-21.4987114794 134.002881728,-21.4931065529 134.006028832,-21.4845066984 134.010473408,-21.4681451319 134.009886944,-21.4669866434 134.01320256,-21.4627046334</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

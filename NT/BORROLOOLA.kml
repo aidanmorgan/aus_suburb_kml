@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>BORROLOOLA</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>136.300621504,-16.0953995335 136.307083008,-16.096461008 136.308164992,-16.090287003 136.313703008,-16.090284006 136.322646848,-16.0819241335 136.322627008,-16.0520440065 136.31573728,-16.052048391 136.307722016,-16.052053867 136.306671008,-16.0520539965 136.306670784,-16.050142891 136.306670016,-16.0430150075 136.299194016,-16.0430170055 136.299194016,-16.0520549955 136.298727008,-16.0520559945 136.295168032,-16.08495534 136.295054272,-16.085890441 136.294590912,-16.0902924235 136.301517984,-16.0902895745 136.300621504,-16.0953995335</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

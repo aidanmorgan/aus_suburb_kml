@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>Ugar Island</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>143.54280288,-9.5094140377 143.543423168,-9.5096439927 143.543652832,-9.5098239977 143.543863072,-9.5108439582 143.545052896,-9.5112539922 143.54676288,-9.5107640382 143.54751312,-9.5101039767 143.548143136,-9.5096040327 143.549573056,-9.5092839827 143.549533088,-9.5084340372 143.549422912,-9.5078140282 143.54893296,-9.5065039877 143.547743168,-9.5058639987 143.546213152,-9.5053339737 143.545422976,-9.5048739897 143.545192928,-9.5049839722 143.544382912,-9.5059340027 143.542592992,-9.5081139872 143.542412992,-9.5090139937 143.54280288,-9.5094140377</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

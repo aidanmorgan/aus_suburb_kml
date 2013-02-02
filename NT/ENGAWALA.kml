@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>ENGAWALA</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>134.458644992,-22.8152679938 134.460224992,-22.8119879993 134.463144992,-22.8079280078 134.464974016,-22.8046479948 134.465824,-22.8019380038 134.466555008,-22.8008080053 134.467894016,-22.7995680058 134.468744,-22.7982079968 134.469224,-22.7968579963 134.464153984,-22.7951907578 134.462983296,-22.7948187413 134.451204128,-22.7916293413 134.447478496,-22.8022939808 134.446178528,-22.8105008028 134.456494656,-22.8150880073 134.458644992,-22.8152679938</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

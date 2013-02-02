@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>WANGAN</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>146.00636496,-17.5745761355 146.006130304,-17.576589509 146.005950848,-17.5785699895 146.00748928,-17.5778386475 146.009284512,-17.576931611 146.0094664,-17.5769672975 146.0112104,-17.577127785 146.01302,-17.576232052 146.013185408,-17.5765342125 146.013399808,-17.5760440365 146.013593888,-17.575510293 146.013688288,-17.575259248 146.013876992,-17.574774141 146.013824064,-17.5746291935 146.0141024,-17.574492201 146.01469072,-17.5718772075 146.010666016,-17.5715019905 146.006695008,-17.571147993 146.006589856,-17.572456091 146.00636496,-17.5745761355</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

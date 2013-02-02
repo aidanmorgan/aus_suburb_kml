@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>TI TREE</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>133.43161536,-22.1701562143 133.452954368,-22.1701487403 133.452914016,-22.0974741728 133.445115712,-22.0974787793 133.423495936,-22.0974838113 133.422504128,-22.0974801298 133.399167104,-22.0974857908 133.374970432,-22.0974855318 133.374963584,-22.1285928193 133.374960896,-22.1348013268 133.37495712,-22.1495652888 133.374949568,-22.1701547713 133.43161536,-22.1701562143</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

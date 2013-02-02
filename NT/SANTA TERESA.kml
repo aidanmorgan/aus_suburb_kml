@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>SANTA TERESA</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>134.286876992,-23.9995829933 134.285422016,-24.1664189903 134.36284464,-24.1664787083 134.593426016,-24.1664220058 134.654036992,-24.1663999908 134.654403008,-23.9969499993 134.554083456,-23.9973355393 134.552849024,-23.9192574178 134.442260736,-23.8175460828 134.253032992,-23.8175650083 134.253032032,-23.9631503328 134.252831008,-23.9996379938 134.25422576,-23.9996461893 134.286876992,-23.9995829933</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

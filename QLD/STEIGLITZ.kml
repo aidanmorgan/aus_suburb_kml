@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>Steiglitz</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>153.357224768,-27.7396916407 153.359894016,-27.7394570052 153.360511008,-27.7381199917 153.360971008,-27.7363219952 153.361224,-27.7347089987 153.35827936,-27.7345886007 153.358206336,-27.7346606212 153.35810496,-27.7346960117 153.356095072,-27.7344179937 153.355613728,-27.7343497472 153.353584096,-27.7340650137 153.34999488,-27.7335950397 153.349400896,-27.7369289987 153.34935696,-27.7371070242 153.349238176,-27.7372739682 153.349449472,-27.7372331017 153.353551904,-27.7378005337 153.353317088,-27.7391450952 153.354888512,-27.7393625997 153.357224768,-27.7396916407</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

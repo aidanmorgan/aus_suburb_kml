@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>AMPILATWATJA</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>135.2755272,-21.6422663549 135.255958528,-21.6422674279 135.254992032,-21.6422684824 135.251879776,-21.6422677424 135.23643696,-21.6422723674 135.226357472,-21.6422683344 135.226351328,-21.6507159709 135.21220272,-21.6507166184 135.212204608,-21.6652537334 135.226354656,-21.6652531044 135.226359392,-21.6682797784 135.226361536,-21.6882287724 135.23009296,-21.6882326759 135.238884096,-21.6882278659 135.239912864,-21.6882186159 135.24638176,-21.6882454224 135.25013248,-21.6882307704 135.275527424,-21.6882266634 135.275522528,-21.6805561009 135.2755272,-21.6422663549</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

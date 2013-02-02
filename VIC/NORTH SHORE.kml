@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>North Shore</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>144.37166688,-38.1003818386 144.375904096,-38.1008191416 144.37656,-38.1004015411 144.376655776,-38.0998964726 144.376852672,-38.0988593071 144.377051776,-38.0978094506 144.374925952,-38.0975525041 144.37227456,-38.0972219461 144.371049856,-38.0970764066 144.369839168,-38.0969325876 144.368617696,-38.0967793151 144.368581792,-38.0969651291 144.36803376,-38.0998011606 144.368630272,-38.0998280781 144.369254176,-38.0999160826 144.369847808,-38.1000362401 144.37043424,-38.1002039981 144.370489696,-38.1002225351 144.37166688,-38.1003818386</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

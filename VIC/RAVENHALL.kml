@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>RAVENHALL</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>144.752836096,-37.7960461086 144.753421664,-37.7916302696 144.753658944,-37.7898380081 144.75383792,-37.7884919666 144.753954272,-37.7876131426 144.754035808,-37.7869969261 144.75429584,-37.7850350381 144.754653728,-37.7823388666 144.754777696,-37.7813988261 144.745736992,-37.7805920041 144.736853696,-37.7797580241 144.736827872,-37.7798863216 144.734702624,-37.7944395501 144.752836096,-37.7960461086</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

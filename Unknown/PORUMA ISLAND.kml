@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>Poruma Island</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>143.06230768,-10.0517802582 143.06619312,-10.0515300272 143.074063072,-10.0517599822 143.074973152,-10.0516499997 143.076112928,-10.0512000057 143.076223072,-10.0507499932 143.073713152,-10.0500699517 143.071432928,-10.0497300327 143.06961312,-10.0496099677 143.067233152,-10.0498400152 143.063562976,-10.0501800267 143.060492896,-10.0508499857 143.060492896,-10.0514199522 143.06230768,-10.0517802582</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

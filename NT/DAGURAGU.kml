@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>DAGURAGU</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>130.833874016,-17.429389005 130.834143008,-17.425255994 130.834020992,-17.4233780035 130.832176992,-17.4187599965 130.831128,-17.4164649975 130.830418016,-17.4141230085 130.830077984,-17.409229 130.830056,-17.4042510015 130.829616,-17.398788007 130.829138016,-17.3961090035 130.828377984,-17.393504999 130.824787008,-17.386363999 130.823384,-17.383176005 130.775922016,-17.3835789905 130.776679008,-17.4567609945 130.823764992,-17.4563189925 130.823745504,-17.4318081575 130.823741312,-17.429386267 130.833874016,-17.429389005</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

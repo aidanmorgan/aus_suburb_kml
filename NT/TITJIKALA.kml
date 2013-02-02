@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>TITJIKALA</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>134.073243008,-24.6748523443 134.073718016,-24.6722449913 134.071497984,-24.6717350018 134.070939328,-24.6748499948 134.066908992,-24.6748400048 134.0644184,-24.6748440378 134.064427552,-24.6893650208 134.080321376,-24.6893639108 134.080323008,-24.6880019963 134.080324992,-24.6849289983 134.081156352,-24.6849289058 134.088015008,-24.6849127738 134.081464,-24.6684819988 134.07529248,-24.6690763113 134.074067712,-24.6748474048 134.073243008,-24.6748523443</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

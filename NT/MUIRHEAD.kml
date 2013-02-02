@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>MUIRHEAD</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>130.892314688,-12.3657029081 130.894945216,-12.3656969696 130.89820608,-12.3656850926 130.8987432,-12.3656877011 130.90041648,-12.3656795981 130.900820768,-12.3656686276 130.900811008,-12.3655890036 130.900808,-12.3645130066 130.900808,-12.3642770021 130.900788992,-12.3583049986 130.90076,-12.3510369961 130.890768128,-12.3510739961 130.890454752,-12.3543870316 130.890267008,-12.3563849946 130.890769344,-12.3584543306 130.891658016,-12.3621110036 130.892394016,-12.3651470016 130.892325056,-12.3656217116 130.892314688,-12.3657029081</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

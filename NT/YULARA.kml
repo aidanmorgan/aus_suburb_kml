@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>YULARA</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>130.930474016,-25.2357179913 130.930472608,-25.2396364578 130.930466016,-25.2652480058 130.971718752,-25.2652379418 131.009643008,-25.2652340013 131.009643456,-25.2632794948 131.009643424,-25.2371138533 131.009639616,-25.2212017628 131.009642016,-25.1485680063 130.995332992,-25.1485710033 130.962904128,-25.1485730013 130.930475008,-25.1485680063 130.930472992,-25.1766839918 130.930472992,-25.2062010008 130.930474016,-25.2357179913</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>

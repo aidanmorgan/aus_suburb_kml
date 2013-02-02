@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <Placemark>
+            <name>COLLINGULLIE</name>
+            <MultiGeometry>
+                <Polygon>
+                    <outerBoundaryIs>
+                        <LinearRing>
+                            <coordinates>147.129628256,-35.0923463481 147.129535776,-35.0924283586 147.129466816,-35.0928000421 147.130506528,-35.0929299491 147.130728032,-35.0929290796 147.131269792,-35.0929993796 147.131475424,-35.0919298761 147.131644928,-35.0910386941 147.131778272,-35.0903259076 147.131943808,-35.0894266966 147.131978208,-35.0893131436 147.13144128,-35.0891001346 147.130315328,-35.0887939596 147.127788224,-35.0881671611 147.12704096,-35.0880059891 147.126878944,-35.0883466111 147.1266232,-35.0897164991 147.126228064,-35.0918309381 147.126321888,-35.0919484686 147.129628256,-35.0923463481</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>
