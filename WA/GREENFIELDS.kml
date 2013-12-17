@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
     <Document>
         <Placemark>
-            <name>GREEN FIELDS</name>
+            <name>GREENFIELDS</name>
             <MultiGeometry>
                 <Polygon>
                     <outerBoundaryIs>
